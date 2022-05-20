@@ -1,6 +1,6 @@
 ### Olá, sou a Amanda 👋
 
-- 🌱 Estudando Node.js
+- 🌱 Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>, na Turma <a href="https://www.xpinc.com/">XP</a>.
 - 😄 Pronomes: ela/dela
 
 
