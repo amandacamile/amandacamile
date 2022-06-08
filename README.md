@@ -1,9 +1,10 @@
 ### Olá, sou a Amanda 👋
 
-- 🌱 Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>, na Turma <a href="https://www.xpinc.com/">XP</a>.
-- 😄 Pronomes: ela/dela
+- :seedling: Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>, na Turma <a href="https://www.xpinc.com/">XP</a>.
+- :round_pushpin: Belo Horizonte - MG
+- :smile: Pronomes: ela/dela
 
-## 📊 Estatísticas
+## :bar_chart: Estatísticas
 <div align="center">
   <a href="https://github.com/amandacamile">  
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=amandacamile&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
@@ -25,7 +26,7 @@
 
 <br/>
   
-## 🙋‍♀️ Vamos nos conectar
+## :raising_hand: Vamos nos conectar
   
 <div>
   
