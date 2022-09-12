@@ -2,13 +2,15 @@
 
 - :seedling: Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>, na Turma <a href="https://www.xpinc.com/">XP</a>.
 - :round_pushpin: Belo Horizonte - MG
-- :smile: Pronomes: ela/dela
+- :dancer: Pronomes: ela/dela
+- :mailbox: Para me contatar: amandacamileso18@gmail.com
+- :star: Conheça minhas experiências: [linkedin.com/amandacamile](https://www.linkedin.com/in/amandacamile/)
 
 ## :bar_chart: Estatísticas
 <div align="center">
   <a href="https://github.com/amandacamile">  
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=amandacamile&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandacamile&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=amandacamile&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandacamile&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 ## 🛠️ Habilidades
   
