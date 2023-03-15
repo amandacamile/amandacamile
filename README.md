@@ -1,6 +1,7 @@
 ### Olá, sou a Amanda 👋
 
-- :seedling: Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>, na Turma <a href="https://www.xpinc.com/">XP</a>.
+- 🍎 iOS Engineer - XP Inc.
+- 🎓 Formada na <a href="https://www.betrybe.com/">Trybe</a>, como Desenvolvedora Web.
 - :round_pushpin: Belo Horizonte - MG
 - :dancer: Pronomes: ela/dela
 - :mailbox: Para me contatar: amandacamileso18@gmail.com
@@ -16,6 +17,7 @@
 ## 🛠️ Habilidades
   
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Icone Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Icone JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icone React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
