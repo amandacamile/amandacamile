@@ -3,7 +3,6 @@
 - 🍎 iOS Engineer - XP Inc.
 - 🎓 Formada na <a href="https://www.betrybe.com/">Trybe</a>, como Desenvolvedora Web.
 - :round_pushpin: Campinas - SP
-- :dancer: Pronomes: ela/dela
 - :mailbox: Para me contatar: amandacamileso18@gmail.com
 - :star: Conheça minhas experiências: [linkedin.com/amandacamile](https://www.linkedin.com/in/amandacamile/)
 
