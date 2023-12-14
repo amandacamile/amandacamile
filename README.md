@@ -2,9 +2,9 @@
 
 - 🍎 iOS Engineer - XP Inc.
 - 🎓 Formada na <a href="https://www.betrybe.com/">Trybe</a>, como Desenvolvedora Web.
-- :round_pushpin: Campinas - SP
-- :mailbox: Para me contatar: amandacamileso18@gmail.com
-- :star: Conheça minhas experiências: [linkedin.com/amandacamile](https://www.linkedin.com/in/amandacamile/)
+- 📍 Campinas - SP
+- 📫 Para me contatar: amandacamileso18@gmail.com
+- ⭐ Conheça minhas experiências: [linkedin.com/amandacamile](https://www.linkedin.com/in/amandacamile/)
 
 ## :bar_chart: Estatísticas
 <div align="center">
