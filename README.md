@@ -1,8 +1,8 @@
 ### Olá, sou a Amanda 👋
 
-- 🍎 iOS Engineer - XP Inc.
+- 🍎 Mobile Engineer Pleno - Avenue
 - 🎓 Formada na <a href="https://www.betrybe.com/">Trybe</a>, como Desenvolvedora Web.
-- 📍 São Paulo - SP
+- 📍 Minas Gerais
 - 📫 Para me contatar: amandacamileso18@gmail.com
 - ⭐ Conheça minhas experiências: [linkedin.com/amandacamile](https://www.linkedin.com/in/amandacamile/)
 
